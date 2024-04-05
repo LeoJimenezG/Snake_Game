@@ -11,3 +11,5 @@ The classic Snake Game using Turtle library and OOP
 - To move down, press "DownArrow"
 - The program will save in a file named "data.txt" the highest score
 
+
+Note: I left the file error on purpose, ups.
