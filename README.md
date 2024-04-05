@@ -1,7 +1,7 @@
 # Snake_Game
 The classic Snake Game using Turtle library and OOP
 
---- IMPORTANT: You need to create a file named "data.txt" and write the number "0" in the same directory you saved the code, in order to run the program with any errors --- 
+--- IMPORTANT: Do not delete the file named "data.txt", otherwise the program will not execute properly --- 
 
 - The program will initialy ask if the user wants to play ("Y" or "N")
 - It won't matter if the entry is lower or upper case, but it has to be a single valid character
